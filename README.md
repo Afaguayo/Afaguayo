@@ -16,6 +16,29 @@ From animated frontends to intelligent backends, I focus on clean architecture, 
 
 ```js
 const angel = {
+  ...
+};
+yaml
+Copy code
+
+But **everything after that must NOT be inside backticks**.
+
+Right now, your Tech Stack, GitHub Stats, and Connect sections are still trapped inside the code fence, so GitHub renders them as code.
+
+---
+
+## ✅ Fix: only wrap the JS object in backticks
+
+### ✅ Correct structure (copy this pattern)
+
+```md
+## 🚀 About Me
+
+I build things that look sharp and run fast.  
+From animated frontends to intelligent backends, I focus on clean architecture, smooth interactions, and performance that doesn’t blink.
+
+```js
+const angel = {
   location: "El Paso, TX",
   focus: ["Web Development", "UI/UX Design", "Performance"],
   currentlyBuilding: "Real-time system visualizers & AI-powered tools",
@@ -34,6 +57,7 @@ Design & Animation
 <div align="center">
 📧 Email
 AngelAguayo78@outlook.com
+
 💼 Portfolio
 Coming soon ⚡
 
