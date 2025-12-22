@@ -5,7 +5,6 @@ Full-Stack Developer | UI/UX Enthusiast | Performance Optimizer
 🚀 About Me
 I'm a developer who loves building things that look good and run fast. I focus on creating seamless user experiences with clean, maintainable code—from interactive frontends to intelligent backends.
 
-javascript
 const angel = {
   location: "El Paso, TX",
   focus: ["Web Development", "UI/UX Design", "Performance"],
@@ -13,6 +12,7 @@ const angel = {
   learning: "Advanced React patterns & system optimization",
   funFact: "I believe every millisecond counts ⚡"
 };
+
 💻 Tech Stack
 <div align="center">
 Frontend
