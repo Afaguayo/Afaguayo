@@ -1,75 +1,88 @@
-<h1 align="center">Angel • Software Developer</h1>
-<h3 align="center">System-Level Engineering · Visual Frontends · Intelligent Tools</h3>
+<div align="center">
+👋 Hey, I'm Angel
+Full-Stack Developer | UI/UX Enthusiast | Performance Optimizer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+elegant+web+experiences;Crafting+pixel-perfect+interfaces;Optimizing+for+speed+%26+style;Making+ideas+come+to+life" alt="Typing Animation" /> </div>
+🚀 About Me
+I'm a developer who loves building things that look good and run fast. I focus on creating seamless user experiences with clean, maintainable code—from interactive frontends to intelligent backends.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=0FFFD6&width=600&lines=Building+clean+tools+from+terminal+to+web.;Optimizing+performance+without+compromising+style.;Systems,+visuals,+and+AI+working+together." alt="Typing SVG" />
-</p>
+javascript
+const angel = {
+  location: "El Paso, TX",
+  focus: ["Web Development", "UI/UX Design", "Performance"],
+  currentlyBuilding: "Real-time system visualizers & AI-powered tools",
+  learning: "Advanced React patterns & system optimization",
+  funFact: "I believe every millisecond counts ⚡"
+};
+💻 Tech Stack
+<div align="center">
+Frontend
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
----
+Backend & Tools
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-## 👤 About Me
+Design & Animation
+Show Image
+Show Image
+Show Image
 
-```bash
-> whoami
-Angel – developer focused on performant systems, modern UIs, and full-stack tools.
+</div>
+🎯 What I'm Working On
+<table> <tr> <td width="50%">
+🖥️ System Performance Visualizer
+Real-time CPU/GPU metrics dashboard with hardware monitoring
 
-> mission
-Design & build software that is technically solid, aesthetically refined, and user-focused.
+Next.js + React for smooth animations
+WebSocket for live data streaming
+Custom-designed minimal UI
+</td> <td width="50%">
+🎨 Interactive Web Experiences
+Modern, animated interfaces that users love
 
-🛠️ I create system-level tools (shells, archivers, video players)
+Framer Motion for fluid transitions
+Tailwind for rapid styling
+Focus on accessibility & performance
+</td> </tr> <tr> <td width="50%">
+🤖 AI-Powered Applications
+Intelligent tools that solve real problems
 
-🖥️ I design clean frontends using Next.js, Tailwind CSS, Framer Motion
+Claude API integration
+Smart data visualization
+Natural language interfaces
+</td> <td width="50%">
+🎮 Hardware Integration Projects
+Bridging software with physical devices
 
-🧠 I build AI-driven apps and interactive visualizers from scratch
+RGB peripheral control
+Real-time system event feedback
+Custom API implementations
+</td> </tr> </table>
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afaguayo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afaguayo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/> </div> <div align="center">
+Show Image
 
-🧪 I care deeply about performance, UX precision, and clean codebases
+</div>
+🏆 Recent Activity
+<!--START_SECTION:activity--> <!-- This section will auto-update if you set up GitHub Actions --> <!--END_SECTION:activity--> <div align="center"> ```diff + Building tools that are fast, beautiful, and functional + Always learning, always shipping ``` </div>
+🌐 Let's Connect
+<div align="center">
+Show Image
+Show Image
+Show Image
 
-🧰 Tech Stack
-Languages & Core:
-C · C++ · Python · JavaScript · Bash · SQL · HTML/CSS
+</div>
+<div align="center">
+💡 "Code is poetry written for machines to execute and humans to read"
+Show Image
 
-Frameworks & Libraries:
-Next.js · React · Tailwind CSS · Framer Motion · Flask
-
-Systems & Tools:
-Arch Linux · KDE · Git · system calls · WebSocket · SteelSeries GameSense API
-
-Specialties:
-Custom UI/UX engineering · Ethical tools · Terminal applications · Hardware interfacing · Visual data renderers
-
-🧠 Current Focus
-🖥️ Custom CPU/GPU visualizer – Hardware-powered real-time metrics, system-call only backend, frontend in Next.js
-
-🎮 SteelSeries GameSense Integration – Web visualizer + RGB feedback syncing with system events
-
-🔧 Bare-metal practice – Writing minimal, dependency-free apps: archiver, shell, terminal-based tools
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=angeldev&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=angeldev&theme=tokyonight&hide_border=true" /> </p>
-
-📬 Connect with Me
-🌐 Portfolio: https://main.d3b63i02w10aff.amplifyapp.com/#skills
-
-💼 LinkedIn: https://www.linkedin.com/in/afaguayo/
-
-
-<p align="center"> <img src="https://raw.githubusercontent.com/angeldev/angeldev/main/banner.png" alt="angeldev banner" width="85%"/> </p> ```
-
-
-
-## Hi there 👋
-
-<!--
-**Afaguayo/Afaguayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
