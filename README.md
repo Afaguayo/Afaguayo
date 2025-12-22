@@ -19,6 +19,7 @@ Frontend
 
 Backend & Tools
 
+</div>
 
 Design & Animation
 
