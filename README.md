@@ -16,25 +16,12 @@ const angel = {
 💻 Tech Stack
 <div align="center">
 Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
 
 Backend & Tools
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
 
 Design & Animation
-Show Image
-Show Image
-Show Image
 
 </div>
 🎯 What I'm Working On
