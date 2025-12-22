@@ -34,4 +34,7 @@ Design & Animation
 <div align="center">
 📧 Email
 AngelAguayo78@outlook.com
-/div> ``
+💼 Portfolio
+Coming soon ⚡
+
+</div> ```
