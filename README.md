@@ -76,13 +76,11 @@ Show Image
 <!--START_SECTION:activity--> <!-- This section will auto-update if you set up GitHub Actions --> <!--END_SECTION:activity--> <div align="center"> ```diff + Building tools that are fast, beautiful, and functional + Always learning, always shipping ``` </div>
 🌐 Let's Connect
 <div align="center">
-Show Image
-Show Image
-Show Image
+AngelAguayo78@outlook.com
 
 </div>
 <div align="center">
-💡 "Code is poetry written for machines to execute and humans to read"
+
 Show Image
 
 </div>
