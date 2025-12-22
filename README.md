@@ -5,13 +5,12 @@ Full-Stack Developer | UI/UX Enthusiast | Performance Optimizer
 🚀 About Me
 I'm a developer who loves building things that look good and run fast. I focus on creating seamless user experiences with clean, maintainable code—from interactive frontends to intelligent backends.
 
-const angel = {
+
   location: "El Paso, TX",
   focus: ["Web Development", "UI/UX Design", "Performance"],
-  currentlyBuilding: "Real-time system visualizers & AI-powered tools",
+  currently Building: "Real-time system visualizers & AI-powered tools",
   learning: "Advanced React patterns & system optimization",
-  funFact: "I believe every millisecond counts ⚡"
-};
+
 
 💻 Tech Stack
 <div align="center">
@@ -59,8 +58,7 @@ Custom API implementations
 Show Image
 
 </div>
-🏆 Recent Activity
-<!--START_SECTION:activity--> <!-- This section will auto-update if you set up GitHub Actions --> <!--END_SECTION:activity--> <div align="center"> ```diff + Building tools that are fast, beautiful, and functional + Always learning, always shipping ``` </div>
+
 🌐 Let's Connect
 <div align="center">
 AngelAguayo78@outlook.com
