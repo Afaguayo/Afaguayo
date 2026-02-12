@@ -40,9 +40,8 @@ I enjoy working across the stack, polishing UI/UX details, and optimizing system
 
 ---
 
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afaguayo&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afaguayo&theme=tokyonight" />
 </div>
 
 ---
