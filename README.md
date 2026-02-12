@@ -3,7 +3,7 @@
 # 👋 Hey, I’m Angel
 ### Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Building+fast%2C+beautiful+web+experiences;Designing+clean+UI+with+purpose;Optimizing+performance+at+every+layer;Turning+ideas+into+working+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Software+Engineer" />
 
 </div>
 
