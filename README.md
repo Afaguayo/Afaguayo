@@ -40,8 +40,22 @@ I enjoy working across the stack, polishing UI/UX details, and optimizing system
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afaguayo&theme=tokyonight" />
+  
+### 💻 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afaguayo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff" />
+
+### 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afaguayo&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+
+### 📈 Language Distribution
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afaguayo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
+
+### 📅 Contribution Heatmap
+<img src="https://ghchart.rshah.org/00d9ff/Afaguayo" alt="GitHub Contribution Chart" />
+
 </div>
 
 ---
