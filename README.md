@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hey, I’m Angel
-### Full-Stack Developer
+### Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Eat+Code+Sleep" />
 
 </div>
 
