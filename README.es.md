@@ -49,22 +49,23 @@ $ ssh player1@afaguayo.dev
 
 | | Misión | Botín | Clase |
 |:-:|---|---|:-:|
+| 📥 | **[YtDowloaderTool](https://github.com/Afaguayo/YtDowloaderTool)** | Descarga videos de YouTube en MP4 o MP3. `.exe` para Windows con ffmpeg incluido | `Python` |
+| ♟️ | **[AI-chess](https://github.com/Afaguayo/AI-chess)** | Ajedrez contra una IA hecha desde cero: todas las reglas, búsqueda alfa-beta, tablero en pygame | `Python` |
+| 🌡️ | **[Steelseries-Gamesence-0Temp](https://github.com/Afaguayo/Steelseries-Gamesence-0Temp)** | Temperaturas de CPU/GPU en vivo en pantallas OLED de SteelSeries; las teclas F pasan de verde a rojo | `Python` |
 | 🎵 | **[local-music-events](https://github.com/Afaguayo/local-music-events)** | App de escritorio que encuentra conciertos cerca de ti; detecta tu ciudad sola y se instala en Windows/macOS | `Python` |
 | 🔊 | **[AudioSentinel](https://github.com/Afaguayo/AudioSentinel)** | Mide los dB de lo que escuchas y te avisa antes de que te revientes los oídos | `C++` |
 | 🛡️ | **[emailleakscanner](https://github.com/Afaguayo/emailleakscanner)** | Revisa si un correo apareció en filtraciones usando LeakCheck, HaveIBeenPwned y Google | `Python` |
-| ⛏️ | **[Minecraft-AI-Agent](https://github.com/Afaguayo/Minecraft-AI-Agent)** | Agente de toma de decisiones que juega Minecraft | `Python` |
 | 🐚 | **[Shell](https://github.com/Afaguayo/Shell)** · **[Archiver](https://github.com/Afaguayo/Archiver)** · **[File-Transfer](https://github.com/Afaguayo/File-Transfer)** | Una shell, un archivador y una herramienta de transferencia de archivos, hechos con llamadas al sistema puras | `Python` |
 | 🍎 | **[caltracker](https://github.com/Afaguayo/caltracker)** | Contador de calorías con Firebase | `JS` |
-| 🕹️ | **[PortfolioWeb](https://github.com/Afaguayo/PortfolioWeb)** | Mi sitio de portafolio | `TS` |
 
 ```
 ╔══[ ÁRBOL DE HABILIDADES // repos por lenguaje ]══════════════╗
 ║                                                              ║
-║ Python      ████████████████████  11 repos                   ║
-║ TypeScript  ████░░░░░░░░░░░░░░░░   2 repos                   ║
-║ JavaScript  ██░░░░░░░░░░░░░░░░░░   1 repo                    ║
-║ Java        ██░░░░░░░░░░░░░░░░░░   1 repo                    ║
-║ C++         ██░░░░░░░░░░░░░░░░░░   1 repo                    ║
+║ Python      ████████████████████  14 repos                   ║
+║ TypeScript  ███░░░░░░░░░░░░░░░░░   2 repos                   ║
+║ JavaScript  █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
+║ Java        █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
+║ C++         █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
