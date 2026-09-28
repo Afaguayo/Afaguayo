@@ -53,7 +53,7 @@ $ ssh player1@afaguayo.dev
 | ♟️ | **[AI-chess](https://github.com/Afaguayo/AI-chess)** | Chess vs. an AI I wrote from scratch: full rules, alpha-beta search, pygame board | `Python` |
 | 🌡️ | **[Steelseries-Gamesence-0Temp](https://github.com/Afaguayo/Steelseries-Gamesence-0Temp)** | Live CPU/GPU temps on SteelSeries OLED screens; function keys glow green→red as it heats up | `Python` |
 | 🎵 | **[local-music-events](https://github.com/Afaguayo/local-music-events)** | Desktop app that finds upcoming concerts near you; auto-detects your city, ships as a Windows/macOS build | `Python` |
-| 🔊 | **[AudioSentinel](https://github.com/Afaguayo/AudioSentinel)** | Watches your listening dB levels and warns you before you cook your ears | `C++` |
+| 🔊 | **[AudioSentinel](https://github.com/Afaguayo/AudioSentinel)** | Tray app that tracks how loud your audio is and how much of your daily safe-listening allowance you've burned | `C++` |
 | 🛡️ | **[emailleakscanner](https://github.com/Afaguayo/emailleakscanner)** | Checks if an email showed up in breaches via LeakCheck, HaveIBeenPwned and Google | `Python` |
 | 🐚 | **[Shell](https://github.com/Afaguayo/Shell)** · **[Archiver](https://github.com/Afaguayo/Archiver)** · **[File-Transfer](https://github.com/Afaguayo/File-Transfer)** | A shell, an archiver and a file-transfer tool, built from raw system calls | `Python` |
 | 🍎 | **[caltracker](https://github.com/Afaguayo/caltracker)** | Calorie tracker backed by Firebase | `JS` |
