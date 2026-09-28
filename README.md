@@ -1,5 +1,8 @@
 <div align="center">
 
+<a href="https://github.com/Afaguayo"><img src="https://img.shields.io/badge/🇺🇸_English-39ff14?style=for-the-badge&labelColor=0d1117" alt="English" /></a>
+<a href="https://github.com/Afaguayo/Afaguayo/blob/main/README.es.md"><img src="https://img.shields.io/badge/🇲🇽_Español-555555?style=for-the-badge&labelColor=0d1117" alt="Español" /></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d0b,100:39ff14&height=120&section=header" width="100%" />
 
 ```
@@ -12,7 +15,7 @@
 ```
 
 <a href="https://github.com/Afaguayo">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=720&lines=%3E+PLAYER+1+HAS+ENTERED+THE+GAME;%3E+eat()+%E2%86%92+code()+%E2%86%92+sleep()+%E2%86%92+repeat();%3E+respawning+bugs+since+day+one;%3E+INSERT+COIN+TO+CONTINUE" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=720&lines=%3E+PLAYER+1+HAS+ENTERED+THE+GAME;%3E+eat%28%29+%E2%86%92+code%28%29+%E2%86%92+sleep%28%29+%E2%86%92+repeat%28%29;%3E+respawning+bugs+since+day+one;%3E+INSERT+COIN+TO+CONTINUE" alt="typing intro" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Afaguayo&color=39ff14&style=for-the-badge&label=PLAYERS+ENCOUNTERED" alt="profile views" />
@@ -34,7 +37,7 @@ $ ssh player1@afaguayo.dev
 ║                                                              ║
 ║ NAME ......... Angel F. Aguayo                               ║
 ║ CLASS ........ Software Engineer // Systems Tinkerer         ║
-║ REGION ....... Texas, USA                                    ║
+║ REGION ....... Chihuahua, Chihuahua, México                  ║
 ║ MAIN QUEST ... ship tools people actually open twice         ║
 ║ SIDE QUESTS .. audio, security, AI agents, UI polish         ║
 ║ STATUS ....... [ ONLINE ]  compiling...                      ║
