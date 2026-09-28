@@ -20,7 +20,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Afaguayo&color=39ff14&style=for-the-badge&label=JUGADORES+ENCONTRADOS" alt="profile views" />
 <img src="https://img.shields.io/badge/ESTADO-EN%20L%C3%8DNEA-39ff14?style=for-the-badge&labelColor=0d1117" alt="status online" />
-<img src="https://img.shields.io/badge/NVL-ESTUDIANTE%20CS-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="level" />
+<img src="https://img.shields.io/badge/LOGRO%20DESBLOQUEADO-EGRESADO%20CS%20🎓-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="logro" />
 
 </div>
 

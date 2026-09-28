@@ -20,7 +20,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Afaguayo&color=39ff14&style=for-the-badge&label=PLAYERS+ENCOUNTERED" alt="profile views" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" alt="status online" />
-<img src="https://img.shields.io/badge/LVL-CS%20STUDENT-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="level" />
+<img src="https://img.shields.io/badge/ACHIEVEMENT%20UNLOCKED-CS%20GRADUATE%20🎓-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="achievement" />
 
 </div>
 
