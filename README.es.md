@@ -55,8 +55,15 @@ $ ssh player1@afaguayo.dev
 | 🎵 | **[local-music-events](https://github.com/Afaguayo/local-music-events)** | App de escritorio que encuentra conciertos cerca de ti; detecta tu ciudad sola y se instala en Windows/macOS | `Python` |
 | 🔊 | **[AudioSentinel](https://github.com/Afaguayo/AudioSentinel)** | App de bandeja que mide qué tan fuerte suena tu audio y cuánto de tu límite diario de escucha segura llevas | `C++` |
 | 🛡️ | **[emailleakscanner](https://github.com/Afaguayo/emailleakscanner)** | Revisa si un correo apareció en filtraciones usando LeakCheck, HaveIBeenPwned y Google | `Python` |
-| 🐚 | **[Shell](https://github.com/Afaguayo/Shell)** · **[Archiver](https://github.com/Afaguayo/Archiver)** · **[File-Transfer](https://github.com/Afaguayo/File-Transfer)** | Una shell, un archivador y una herramienta de transferencia de archivos, hechos con llamadas al sistema puras | `Python` |
+| 📋 | **[TaskFlow](https://github.com/Afaguayo/TaskFlow)** | Tablero Por hacer → En progreso → Revisión → Hecho, hecho para mostrar arquitectura por capas, SOLID y código con pruebas · [demo](https://afaguayo.github.io/TaskFlow/) | `TS` |
 | 🍎 | **[caltracker](https://github.com/Afaguayo/caltracker)** | Contador de calorías con Firebase | `JS` |
+
+<details>
+<summary><sub>🎓 Proyectos de clase (aparte)</sub></summary>
+
+<sub>[Shell](https://github.com/Afaguayo/Shell) · [Archiver](https://github.com/Afaguayo/Archiver) · [File-Transfer](https://github.com/Afaguayo/File-Transfer) · [s24-video-player](https://github.com/Afaguayo/s24-video-player) · [PA2-Decision-Makiong](https://github.com/Afaguayo/PA2-Decision-Makiong) · [TICKETMINER](https://github.com/Afaguayo/TICKETMINER) · [TRACE-subsytem-1](https://github.com/Afaguayo/TRACE-subsytem-1)</sub>
+
+</details>
 
 ```
 ╔══[ ÁRBOL DE HABILIDADES // repos por lenguaje ]══════════════╗
