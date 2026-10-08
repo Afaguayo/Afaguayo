@@ -1,9 +1,9 @@
 <div align="center">
 
-<a href="https://github.com/Afaguayo"><img src="https://img.shields.io/badge/🇺🇸_English-555555?style=for-the-badge&labelColor=0d1117" alt="English" /></a>
-<a href="https://github.com/Afaguayo/Afaguayo/blob/main/README.es.md"><img src="https://img.shields.io/badge/🇲🇽_Español-39ff14?style=for-the-badge&labelColor=0d1117" alt="Español" /></a>
+<a href="https://github.com/Afaguayo"><img src="https://img.shields.io/badge/🤍_English-808080?style=for-the-badge&labelColor=000000" alt="English" /></a>
+<a href="https://github.com/Afaguayo/Afaguayo/blob/main/README.es.md"><img src="https://img.shields.io/badge/🩶_Español-ffffff?style=for-the-badge&labelColor=000000" alt="Español" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d0b,100:39ff14&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:808080,100:ffb3da&height=120&section=header" width="100%" />
 
 ```
  █████╗ ███████╗ █████╗  ██████╗ ██╗   ██╗ █████╗ ██╗   ██╗ ██████╗
@@ -15,52 +15,54 @@
 ```
 
 <a href="https://github.com/Afaguayo">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=720&lines=%3E+JUGADOR+1+HA+ENTRADO+AL+JUEGO;%3E+comer%28%29+%E2%86%92+programar%28%29+%E2%86%92+dormir%28%29+%E2%86%92+repetir%28%29;%3E+reapareciendo+bugs+desde+el+d%C3%ADa+uno;%3E+INSERTE+MONEDA+PARA+CONTINUAR" alt="intro animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=800&color=FFB3DA&center=true&vCenter=true&width=720&lines=%3E+BIENVENIDO+A+ANGEL.OS;codigo%28%29+%E2%86%92+sue%C3%B1o%28%29+%E2%86%92+ascenso%28%29+%E2%86%92+repetir%28%29;reparando+alas+desde+el+dia+uno;%3E+presiona+%E2%9C%A6+para+continuar" alt="intro animada" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Afaguayo&color=39ff14&style=for-the-badge&label=JUGADORES+ENCONTRADOS" alt="profile views" />
-<img src="https://img.shields.io/badge/ESTADO-EN%20L%C3%8DNEA-39ff14?style=for-the-badge&labelColor=0d1117" alt="status online" />
-<img src="https://img.shields.io/badge/LOGRO%20DESBLOQUEADO-EGRESADO%20CS%20🎓-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="logro" />
-<img src="https://img.shields.io/badge/DISPONIBLE%20PARA%20CONTRATAR-39ff14?style=for-the-badge&labelColor=0d1117" alt="disponible para contratar" />
+✦˖°  🕊️  °˖✦
+
+<img src="https://komarev.com/ghpvc/?username=Afaguayo&color=c0c0c0&style=for-the-badge&label=VISITAS" alt="profile views" />
+<img src="https://img.shields.io/badge/ESTADO-EN%20L%C3%8DNEA-ffffff?style=for-the-badge&labelColor=000000" alt="status online" />
+<img src="https://img.shields.io/badge/LOGRO%20DESBLOQUEADO-EGRESADO%20CS%20🎓-ffb3da?style=for-the-badge&labelColor=000000" alt="logro" />
+<img src="https://img.shields.io/badge/DISPONIBLE%20PARA%20CONTRATAR-ffb3da?style=for-the-badge&labelColor=000000" alt="disponible para contratar" />
 
 Ingeniero de Software y egresado de Ciencias de la Computación, en Chihuahua,
 México, que construye y lanza productos completos de principio a fin — apps
 web, herramientas de escritorio y pequeños agentes de IA — en Python,
 TypeScript y C++.
 
-<a href="https://www.linkedin.com/in/afaguayo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-<a href="https://afaguayo.github.io/PortfolioWeb/Angel%20Aguayo%20Resume.pdf"><img src="https://img.shields.io/badge/CV-PDF-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="CV" /></a>
-<a href="https://afaguayo.github.io/PortfolioWeb/"><img src="https://img.shields.io/badge/Portafolio-afaguayo.dev-39ff14?style=for-the-badge&labelColor=0d1117" alt="Portafolio" /></a>
-<a href="mailto:AngelAguayo78@outlook.com"><img src="https://img.shields.io/badge/Correo-AngelAguayo78%40outlook.com-555555?style=for-the-badge&labelColor=0d1117" alt="Correo" /></a>
+<a href="https://www.linkedin.com/in/afaguayo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
+<a href="https://afaguayo.github.io/PortfolioWeb/Angel%20Aguayo%20Resume.pdf"><img src="https://img.shields.io/badge/CV-PDF-ffb3da?style=for-the-badge&labelColor=000000" alt="CV" /></a>
+<a href="https://afaguayo.github.io/PortfolioWeb/"><img src="https://img.shields.io/badge/Portafolio-afaguayo.dev-c0c0c0?style=for-the-badge&labelColor=000000" alt="Portafolio" /></a>
+<a href="mailto:AngelAguayo78@outlook.com"><img src="https://img.shields.io/badge/Correo-AngelAguayo78%40outlook.com-ffffff?style=for-the-badge&labelColor=000000" alt="Correo" /></a>
 
 </div>
 
 ```console
-$ ssh player1@afaguayo.dev
-> cargando partida guardada...... OK
-> restaurando inventario......... OK
-> apareciendo en el checkpoint... OK
-> presiona [START] para continuar_
+$ connect angel@afaguayo.dev
+> desplegando alas............... OK
+> puliendo la aureola........... OK
+> sincronizando polvo de estrellas OK
+> presiona ✦ para continuar_
 ```
 
 ```
-╔══[ JUGADOR 1 ]═══════════════════════════════════════════════╗
+╔══[ PERFIL DEL GUARDIÁN ]═════════════════════════════════════╗
 ║                                                              ║
 ║ NOMBRE ........ Angel F. Aguayo                              ║
-║ CLASE ......... Ingeniero de Software // Hacker de Sistemas  ║
-║ REGIÓN ........ Chihuahua, Chihuahua, México                 ║
+║ ROL ........... Ingeniero de Software // Hacker de Sistemas  ║
+║ REGIÓN ........ Chihuahua, Chihuahua, México                  ║
 ║ MISIÓN ........ crear herramientas que sí se usen dos veces  ║
-║ SECUNDARIAS ... audio, seguridad, agentes de IA, diseño UI   ║
+║ INTERESES ..... audio, seguridad, agentes de IA, diseño UI   ║
 ║ ESTADO ........ [ EN LÍNEA ]  compilando...                  ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## 🗺️ REGISTRO DE MISIONES
+## 🕊️ PROYECTOS
 
-| | Misión | Botín | Clase |
+| | Proyecto | Qué hace | Stack |
 |:-:|---|---|:-:|
-| 🌐 | **[PortfolioWeb](https://github.com/Afaguayo/PortfolioWeb)** | Este sitio: portafolio 8-bit ángel-cyber en blanco y negro, con proyectos de GitHub en vivo y top 5 de Spotify/Steam · [en vivo](https://afaguayo.github.io/PortfolioWeb/) | `TS` |
+| 🪽 | **[PortfolioWeb](https://github.com/Afaguayo/PortfolioWeb)** | Este sitio: portafolio 8-bit ángel-cyber en blanco y negro, con proyectos de GitHub en vivo y top 5 de Spotify/Steam · [en vivo](https://afaguayo.github.io/PortfolioWeb/) | `TS` |
 | 🤖 | **[brochacho](https://github.com/Afaguayo/brochacho)** | Le escribes a tu computadora y te responde: Claude Code en tu PC/Mac, controlado desde un DM de Discord | `PowerShell` |
 | 📖 | **[hackathon](https://github.com/Afaguayo/hackathon)** | AI Reading Companion: lee texto en voz alta y conversa contigo sobre lo que estás leyendo · [en vivo](https://reading-companion-navy.vercel.app) | `TS` |
 | 📥 | **[YouTube-Downloader](https://github.com/Afaguayo/YouTube-Downloader)** | Descarga videos de YouTube en MP4 o MP3. `.exe` para Windows con ffmpeg incluido | `Python` |
@@ -80,7 +82,7 @@ $ ssh player1@afaguayo.dev
 </details>
 
 ```
-╔══[ ÁRBOL DE HABILIDADES // repos por lenguaje ]══════════════╗
+╔══[ STACK // repos por lenguaje ]══════════════════════════════╗
 ║                                                              ║
 ║ Python      ████████████████████  14 repos                   ║
 ║ TypeScript  ████░░░░░░░░░░░░░░░░   3 repos                   ║
@@ -92,28 +94,28 @@ $ ssh player1@afaguayo.dev
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## 🎒 INVENTARIO
+## 🤍 HERRAMIENTAS
 
 <table>
   <tr>
-    <td align="center"><b>⚔️ Armas</b><br/><sub>lenguajes</sub></td>
+    <td align="center"><b>💻 Lenguajes</b></td>
     <td><img src="https://skillicons.dev/icons?i=py,cpp,java,ts,js,php&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>🛡️ Armadura</b><br/><sub>frameworks</sub></td>
+    <td align="center"><b>🧩 Frameworks</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,html,css&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>🧪 Pociones</b><br/><sub>datos e infra</sub></td>
+    <td align="center"><b>🗂️ Datos e infra</b></td>
     <td><img src="https://skillicons.dev/icons?i=mysql,firebase,linux,git,github,vscode&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>🎨 Encantamientos</b><br/><sub>diseño</sub></td>
+    <td align="center"><b>🎨 Diseño</b></td>
     <td><img src="https://skillicons.dev/icons?i=figma,blender,aftereffects&theme=dark" /></td>
   </tr>
 </table>
 
-## 🏆 PUNTUACIONES MÁXIMAS
+## ✦ ESTADÍSTICAS ✦
 
 <div align="center">
 
@@ -122,35 +124,34 @@ $ ssh player1@afaguayo.dev
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afaguayo&theme=radical" height="170" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afaguayo&theme=radical" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afaguayo&locale=es&theme=radical&hide_border=true&background=0d1117&ring=39ff14&fire=ff2bd6&currStreakLabel=39ff14" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afaguayo&locale=es&theme=radical&hide_border=true&background=000000&ring=ffb3da&fire=c0c0c0&currStreakLabel=ffb3da" />
 
 </div>
 
-## 🐍 JEFE FINAL: LA GRÁFICA DE CONTRIBUCIONES
+## 🪽 GRÁFICA DE CONTRIBUCIONES
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afaguayo/Afaguayo/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afaguayo/Afaguayo/output/snake-light.svg" />
-  <img alt="serpiente comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/Afaguayo/Afaguayo/output/snake-dark.svg" />
+  <img alt="un ala comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/Afaguayo/Afaguayo/output/snake-dark.svg" />
 </picture>
 
 </div>
 
-## 📡 MULTIJUGADOR
+## 💌 ESCRÍBEME
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/afaguayo"><img src="https://img.shields.io/badge/OFERTA%20DE%20TRABAJO-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:AngelAguayo78@outlook.com"><img src="https://img.shields.io/badge/INVITAR%20A%20LA%20PARTY-Correo-39ff14?style=for-the-badge&logo=maildotru&logoColor=39ff14&labelColor=0d1117" /></a>
-<a href="https://github.com/Afaguayo?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR-Todos%20los%20repos-ff2bd6?style=for-the-badge&logo=github&logoColor=ff2bd6&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/afaguayo"><img src="https://img.shields.io/badge/CONECTAR-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+<a href="mailto:AngelAguayo78@outlook.com"><img src="https://img.shields.io/badge/ENV%C3%8DAME%20UN%20CORREO-ffb3da?style=for-the-badge&logo=maildotru&logoColor=ffb3da&labelColor=000000" /></a>
+<a href="https://github.com/Afaguayo?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR-Todos%20los%20repos-c0c0c0?style=for-the-badge&logo=github&logoColor=c0c0c0&labelColor=000000" /></a>
 
 ```
-  ¿GAME OVER?  >  CONTINUAR     SALIR
-                  ^^^^^^^^^
+  ⋆｟🕊️⟆⋆   gracias por visitar   ⋆｟🕊️⟆⋆
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:0b3d0b,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3da,50:808080,100:000000&height=100&section=footer" width="100%" />
 
 </div>
