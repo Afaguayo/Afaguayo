@@ -21,6 +21,17 @@
 <img src="https://komarev.com/ghpvc/?username=Afaguayo&color=39ff14&style=for-the-badge&label=JUGADORES+ENCONTRADOS" alt="profile views" />
 <img src="https://img.shields.io/badge/ESTADO-EN%20L%C3%8DNEA-39ff14?style=for-the-badge&labelColor=0d1117" alt="status online" />
 <img src="https://img.shields.io/badge/LOGRO%20DESBLOQUEADO-EGRESADO%20CS%20🎓-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="logro" />
+<img src="https://img.shields.io/badge/DISPONIBLE%20PARA%20CONTRATAR-39ff14?style=for-the-badge&labelColor=0d1117" alt="disponible para contratar" />
+
+Ingeniero de Software y egresado de Ciencias de la Computación, en Chihuahua,
+México, que construye y lanza productos completos de principio a fin — apps
+web, herramientas de escritorio y pequeños agentes de IA — en Python,
+TypeScript y C++.
+
+<a href="https://www.linkedin.com/in/afaguayo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="https://afaguayo.github.io/PortfolioWeb/Angel%20Aguayo%20Resume.pdf"><img src="https://img.shields.io/badge/CV-PDF-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="CV" /></a>
+<a href="https://afaguayo.github.io/PortfolioWeb/"><img src="https://img.shields.io/badge/Portafolio-afaguayo.dev-39ff14?style=for-the-badge&labelColor=0d1117" alt="Portafolio" /></a>
+<a href="mailto:AngelAguayo78@outlook.com"><img src="https://img.shields.io/badge/Correo-AngelAguayo78%40outlook.com-555555?style=for-the-badge&labelColor=0d1117" alt="Correo" /></a>
 
 </div>
 
@@ -49,9 +60,12 @@ $ ssh player1@afaguayo.dev
 
 | | Misión | Botín | Clase |
 |:-:|---|---|:-:|
-| 📥 | **[YtDowloaderTool](https://github.com/Afaguayo/YtDowloaderTool)** | Descarga videos de YouTube en MP4 o MP3. `.exe` para Windows con ffmpeg incluido | `Python` |
+| 🌐 | **[PortfolioWeb](https://github.com/Afaguayo/PortfolioWeb)** | Este sitio: portafolio 8-bit ángel-cyber en blanco y negro, con proyectos de GitHub en vivo y top 5 de Spotify/Steam · [en vivo](https://afaguayo.github.io/PortfolioWeb/) | `TS` |
+| 🤖 | **[brochacho](https://github.com/Afaguayo/brochacho)** | Le escribes a tu computadora y te responde: Claude Code en tu PC/Mac, controlado desde un DM de Discord | `PowerShell` |
+| 📖 | **[hackathon](https://github.com/Afaguayo/hackathon)** | AI Reading Companion: lee texto en voz alta y conversa contigo sobre lo que estás leyendo · [en vivo](https://reading-companion-navy.vercel.app) | `TS` |
+| 📥 | **[YouTube-Downloader](https://github.com/Afaguayo/YouTube-Downloader)** | Descarga videos de YouTube en MP4 o MP3. `.exe` para Windows con ffmpeg incluido | `Python` |
 | ♟️ | **[AI-chess](https://github.com/Afaguayo/AI-chess)** | Ajedrez contra una IA hecha desde cero: todas las reglas, búsqueda alfa-beta, tablero en pygame | `Python` |
-| 🌡️ | **[Steelseries-Gamesence-0Temp](https://github.com/Afaguayo/Steelseries-Gamesence-0Temp)** | Temperaturas de CPU/GPU en vivo en pantallas OLED de SteelSeries; las teclas F pasan de verde a rojo | `Python` |
+| 🌡️ | **[SteelSeries-GameSense-Temps](https://github.com/Afaguayo/SteelSeries-GameSense-Temps)** | Temperaturas de CPU/GPU en vivo en pantallas OLED de SteelSeries; las teclas F pasan de verde a rojo | `Python` |
 | 🎵 | **[local-music-events](https://github.com/Afaguayo/local-music-events)** | App de escritorio que encuentra conciertos cerca de ti; detecta tu ciudad sola y se instala en Windows/macOS | `Python` |
 | 🔊 | **[AudioSentinel](https://github.com/Afaguayo/AudioSentinel)** | App de bandeja que mide qué tan fuerte suena tu audio y cuánto de tu límite diario de escucha segura llevas | `C++` |
 | 🛡️ | **[emailleakscanner](https://github.com/Afaguayo/emailleakscanner)** | Revisa si un correo apareció en filtraciones usando LeakCheck, HaveIBeenPwned y Google | `Python` |
@@ -61,7 +75,7 @@ $ ssh player1@afaguayo.dev
 <details>
 <summary><sub>🎓 Proyectos de clase (aparte)</sub></summary>
 
-<sub>[Shell](https://github.com/Afaguayo/Shell) · [Archiver](https://github.com/Afaguayo/Archiver) · [File-Transfer](https://github.com/Afaguayo/File-Transfer) · [s24-video-player](https://github.com/Afaguayo/s24-video-player) · [PA2-Decision-Makiong](https://github.com/Afaguayo/PA2-Decision-Makiong) · [TICKETMINER](https://github.com/Afaguayo/TICKETMINER) · [TRACE-subsytem-1](https://github.com/Afaguayo/TRACE-subsytem-1)</sub>
+<sub>[Shell](https://github.com/Afaguayo/Shell) · [Archiver](https://github.com/Afaguayo/Archiver) · [File-Transfer](https://github.com/Afaguayo/File-Transfer) · [s24-video-player](https://github.com/Afaguayo/s24-video-player) · [PA2-Decision-Making](https://github.com/Afaguayo/PA2-Decision-Making) · [TICKETMINER](https://github.com/Afaguayo/TICKETMINER) · [TRACE-subsystem-1](https://github.com/Afaguayo/TRACE-subsystem-1)</sub>
 
 </details>
 
@@ -69,10 +83,11 @@ $ ssh player1@afaguayo.dev
 ╔══[ ÁRBOL DE HABILIDADES // repos por lenguaje ]══════════════╗
 ║                                                              ║
 ║ Python      ████████████████████  14 repos                   ║
-║ TypeScript  ███░░░░░░░░░░░░░░░░░   2 repos                   ║
+║ TypeScript  ████░░░░░░░░░░░░░░░░   3 repos                   ║
 ║ JavaScript  █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
 ║ Java        █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
 ║ C++         █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
+║ PowerShell  █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -127,6 +142,7 @@ $ ssh player1@afaguayo.dev
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/afaguayo"><img src="https://img.shields.io/badge/OFERTA%20DE%20TRABAJO-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 <a href="mailto:AngelAguayo78@outlook.com"><img src="https://img.shields.io/badge/INVITAR%20A%20LA%20PARTY-Correo-39ff14?style=for-the-badge&logo=maildotru&logoColor=39ff14&labelColor=0d1117" /></a>
 <a href="https://github.com/Afaguayo?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR-Todos%20los%20repos-ff2bd6?style=for-the-badge&logo=github&logoColor=ff2bd6&labelColor=0d1117" /></a>
 

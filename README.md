@@ -21,6 +21,16 @@
 <img src="https://komarev.com/ghpvc/?username=Afaguayo&color=39ff14&style=for-the-badge&label=PLAYERS+ENCOUNTERED" alt="profile views" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" alt="status online" />
 <img src="https://img.shields.io/badge/ACHIEVEMENT%20UNLOCKED-CS%20GRADUATE%20🎓-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="achievement" />
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-39ff14?style=for-the-badge&labelColor=0d1117" alt="open to work" />
+
+Software Engineer and CS graduate based in Chihuahua, México, who builds and ships
+full products end to end — web apps, desktop tools, and small AI agents — in
+Python, TypeScript and C++.
+
+<a href="https://www.linkedin.com/in/afaguayo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="https://afaguayo.github.io/PortfolioWeb/Angel%20Aguayo%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-ff2bd6?style=for-the-badge&labelColor=0d1117" alt="Resume" /></a>
+<a href="https://afaguayo.github.io/PortfolioWeb/"><img src="https://img.shields.io/badge/Portfolio-afaguayo.dev-39ff14?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="mailto:AngelAguayo78@outlook.com"><img src="https://img.shields.io/badge/Email-AngelAguayo78%40outlook.com-555555?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
 
 </div>
 
@@ -49,9 +59,12 @@ $ ssh player1@afaguayo.dev
 
 | | Quest | Loot | Class |
 |:-:|---|---|:-:|
-| 📥 | **[YtDowloaderTool](https://github.com/Afaguayo/YtDowloaderTool)** | Save YouTube videos as MP4 or MP3. One-click Windows `.exe` with ffmpeg built in | `Python` |
+| 🌐 | **[PortfolioWeb](https://github.com/Afaguayo/PortfolioWeb)** | This site: black & white cyber-angel 8-bit portfolio with live GitHub projects and Spotify/Steam top 5 · [live](https://afaguayo.github.io/PortfolioWeb/) | `TS` |
+| 🤖 | **[brochacho](https://github.com/Afaguayo/brochacho)** | Text your computer, it texts back: Claude Code on your own PC/Mac, driven from a Discord DM | `PowerShell` |
+| 📖 | **[hackathon](https://github.com/Afaguayo/hackathon)** | AI Reading Companion: reads text aloud and talks with you about what you're reading · [live](https://reading-companion-navy.vercel.app) | `TS` |
+| 📥 | **[YouTube-Downloader](https://github.com/Afaguayo/YouTube-Downloader)** | Save YouTube videos as MP4 or MP3. One-click Windows `.exe` with ffmpeg built in | `Python` |
 | ♟️ | **[AI-chess](https://github.com/Afaguayo/AI-chess)** | Chess vs. an AI I wrote from scratch: full rules, alpha-beta search, pygame board | `Python` |
-| 🌡️ | **[Steelseries-Gamesence-0Temp](https://github.com/Afaguayo/Steelseries-Gamesence-0Temp)** | Live CPU/GPU temps on SteelSeries OLED screens; function keys glow green→red as it heats up | `Python` |
+| 🌡️ | **[SteelSeries-GameSense-Temps](https://github.com/Afaguayo/SteelSeries-GameSense-Temps)** | Live CPU/GPU temps on SteelSeries OLED screens; function keys glow green→red as it heats up | `Python` |
 | 🎵 | **[local-music-events](https://github.com/Afaguayo/local-music-events)** | Desktop app that finds upcoming concerts near you; auto-detects your city, ships as a Windows/macOS build | `Python` |
 | 🔊 | **[AudioSentinel](https://github.com/Afaguayo/AudioSentinel)** | Tray app that tracks how loud your audio is and how much of your daily safe-listening allowance you've burned | `C++` |
 | 🛡️ | **[emailleakscanner](https://github.com/Afaguayo/emailleakscanner)** | Checks if an email showed up in breaches via LeakCheck, HaveIBeenPwned and Google | `Python` |
@@ -61,7 +74,7 @@ $ ssh player1@afaguayo.dev
 <details>
 <summary><sub>🎓 Coursework (class projects, kept separate)</sub></summary>
 
-<sub>[Shell](https://github.com/Afaguayo/Shell) · [Archiver](https://github.com/Afaguayo/Archiver) · [File-Transfer](https://github.com/Afaguayo/File-Transfer) · [s24-video-player](https://github.com/Afaguayo/s24-video-player) · [PA2-Decision-Makiong](https://github.com/Afaguayo/PA2-Decision-Makiong) · [TICKETMINER](https://github.com/Afaguayo/TICKETMINER) · [TRACE-subsytem-1](https://github.com/Afaguayo/TRACE-subsytem-1)</sub>
+<sub>[Shell](https://github.com/Afaguayo/Shell) · [Archiver](https://github.com/Afaguayo/Archiver) · [File-Transfer](https://github.com/Afaguayo/File-Transfer) · [s24-video-player](https://github.com/Afaguayo/s24-video-player) · [PA2-Decision-Making](https://github.com/Afaguayo/PA2-Decision-Making) · [TICKETMINER](https://github.com/Afaguayo/TICKETMINER) · [TRACE-subsystem-1](https://github.com/Afaguayo/TRACE-subsystem-1)</sub>
 
 </details>
 
@@ -69,10 +82,11 @@ $ ssh player1@afaguayo.dev
 ╔══[ SKILL TREE // repos shipped per language ]════════════════╗
 ║                                                              ║
 ║ Python      ████████████████████  14 repos                   ║
-║ TypeScript  ███░░░░░░░░░░░░░░░░░   2 repos                   ║
+║ TypeScript  ████░░░░░░░░░░░░░░░░   3 repos                   ║
 ║ JavaScript  █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
 ║ Java        █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
 ║ C++         █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
+║ PowerShell  █░░░░░░░░░░░░░░░░░░░   1 repo                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -127,6 +141,7 @@ $ ssh player1@afaguayo.dev
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/afaguayo"><img src="https://img.shields.io/badge/CO%20OP%20REQUEST-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 <a href="mailto:AngelAguayo78@outlook.com"><img src="https://img.shields.io/badge/SEND%20A%20PARTY%20INVITE-Email-39ff14?style=for-the-badge&logo=maildotru&logoColor=39ff14&labelColor=0d1117" /></a>
 <a href="https://github.com/Afaguayo?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-All%20Repos-ff2bd6?style=for-the-badge&logo=github&logoColor=ff2bd6&labelColor=0d1117" /></a>
 
