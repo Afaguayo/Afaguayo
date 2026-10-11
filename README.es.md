@@ -83,10 +83,28 @@ $ ./init.sh
 
 </details>
 
+## KAGGLE
+
+<a href="https://www.kaggle.com/afaguayo"><img src="https://img.shields.io/badge/Kaggle-afaguayo-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000" alt="Kaggle" /></a>
+<a href="https://github.com/Afaguayo/kaggle-entries"><img src="https://img.shields.io/badge/C%C3%B3digo-kaggle--entries-c0c0c0?style=for-the-badge&logo=github&logoColor=c0c0c0&labelColor=000000" alt="repo kaggle-entries" /></a>
+
+Participaciones individuales en competencias, cada una validada localmente antes de enviarla. Los puntajes son del leaderboard público.
+
+| Competencia | Métrica | Puntaje | Código |
+|---|---|---|---|
+| **[Titanic](https://www.kaggle.com/competitions/titanic)** | Accuracy | **0.782** | [code](https://github.com/Afaguayo/kaggle-entries/tree/main/titanic) |
+| **[House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)** | RMSLE | **0.122** | [code](https://github.com/Afaguayo/kaggle-entries/tree/main/house-prices) |
+| **[Housing Prices (Kaggle Learn)](https://www.kaggle.com/competitions/home-data-for-ml-course)** | MAE | **$12,705** | [code](https://github.com/Afaguayo/kaggle-entries/tree/main/housing-prices-learn) |
+| **[Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)** | Accuracy | **0.9963** | [code](https://github.com/Afaguayo/kaggle-entries/tree/main/digit-recognizer) |
+| **[Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)** | Accuracy | **0.805** | [code](https://github.com/Afaguayo/kaggle-entries/tree/main/spaceship-titanic) |
+| **[NLP Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)** | F1 | **0.800** | [code](https://github.com/Afaguayo/kaggle-entries/tree/main/nlp-disaster-tweets) |
+| **[Store Sales (time series)](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)** | RMSLE | **0.424** | [code](https://github.com/Afaguayo/kaggle-entries/tree/main/store-sales) |
+| **[Airline Satisfaction (Playground S6E10)](https://www.kaggle.com/competitions/playground-series-s6e10)** | ROC AUC | **0.958** | [code](https://github.com/Afaguayo/kaggle-entries/tree/main/airline-satisfaction-s6e10) |
+
 ```
 ╔══[ STACK // repos por lenguaje ]══════════════════════════════╗
 ║                                                                ║
-║ Python      ████████████████████  14 repos                    ║
+║ Python      ████████████████████  15 repos                    ║
 ║ TypeScript  ████░░░░░░░░░░░░░░░░   3 repos                    ║
 ║ JavaScript  █░░░░░░░░░░░░░░░░░░░   1 repo                     ║
 ║ Java        █░░░░░░░░░░░░░░░░░░░   1 repo                     ║
