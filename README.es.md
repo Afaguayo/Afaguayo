@@ -29,7 +29,7 @@ web, herramientas de escritorio y pequeños agentes de IA — en Python,
 TypeScript y C++.
 
 <a href="https://www.linkedin.com/in/afaguayo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
-<a href="https://afaguayo.github.io/PortfolioWeb/Angel%20Aguayo%20Resume.pdf"><img src="https://img.shields.io/badge/CV-PDF-ffb3da?style=for-the-badge&labelColor=000000" alt="CV" /></a>
+<a href="https://afaguayo.github.io/PortfolioWeb/Angel%20Aguayo%20CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-ffb3da?style=for-the-badge&labelColor=000000" alt="CV" /></a>
 <a href="https://afaguayo.github.io/PortfolioWeb/"><img src="https://img.shields.io/badge/Portafolio-afaguayo.dev-c0c0c0?style=for-the-badge&labelColor=000000" alt="Portafolio" /></a>
 <a href="mailto:AngelAguayo78@outlook.com"><img src="https://img.shields.io/badge/Correo-AngelAguayo78%40outlook.com-ffffff?style=for-the-badge&labelColor=000000" alt="Correo" /></a>
 
